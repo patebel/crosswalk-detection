@@ -1,5 +1,5 @@
-train: /content/gdrive/MyDrive/Crosswalks_Detection/training/training_dataset/train/images
-val: /content/gdrive/MyDrive/Crosswalks_Detection/training/training_dataset/valid/images
+train: /Users/patebel/Code/crosswalk-detection/training/training_dataset/train/images
+val: /Users/patebel/Code/crosswalk-detection/training/training_dataset/valid/images
 
 nc: 1
 names: ['crosswalk']
