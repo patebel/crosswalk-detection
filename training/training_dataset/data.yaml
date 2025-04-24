@@ -1,4 +1,4 @@
-train: /Users/patebel/Code/crosswalk-detection/training/training_dataset/train/images
+train: /Users/patebel/Code/crosswalk-detection/training/training_dataset/train/images_test
 val: /Users/patebel/Code/crosswalk-detection/training/training_dataset/valid/images
 
 nc: 1
